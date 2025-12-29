@@ -1,4 +1,4 @@
-
+ &nbsp;&nbsp; ![Views](https://komarev.com/ghpvc/?username=Aziza145&label=Views&color=007ACC&style=flat-square)
 # 🎄![Image](https://github.com/user-attachments/assets/4d40515d-5bc8-40e1-b0fe-6c35e801af2d)🎄 {Welcome}
 
 ## 🚀 О себе
@@ -16,6 +16,15 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
 
+## 📧 Контакты 
+<a href="mailto:azizaalooo555@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://t.me/Worby145" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
 ## 🎯 Codewars
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Aziza555)
@@ -23,12 +32,6 @@
 <div align="center">
   
 ![Codewars Stats](https://www.codewars.com/users/Aziza555/badges/large)
-
-</div>
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Worby145)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizaalooo555@gmail.com)
-
 ---
 
 ⭐️ From [Aziza145](https://github.com/Aziza145)
