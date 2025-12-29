@@ -14,7 +14,7 @@
 ## 🛠️ Инструменты
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Aziza555)
 
 ## 📧 Контакты 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=azizaalooo555@gmail.com" target="_blank">
