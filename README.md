@@ -25,13 +25,5 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
 
-## 🎯 Codewars
+<div align="left">
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Aziza555)
-
-<div align="center">
-  
-![Codewars Stats](https://www.codewars.com/users/Aziza555/badges/large)
----
-
-⭐️ From [Aziza145](https://github.com/Aziza145)
